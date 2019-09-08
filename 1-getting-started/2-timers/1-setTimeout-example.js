@@ -1,6 +1,6 @@
 setTimeout(
   () => {
-    console.log('Hello after 4 seconds');
+    console.log('Hello after 8 seconds');
   },
-  4 * 1000
+  8 * 1000
 );
